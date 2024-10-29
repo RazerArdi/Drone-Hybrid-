@@ -1,1 +1,4 @@
+altitude_threshold: 1.5
+safe_distance_to_target: 5
+obstacle_distance_threshold: 2
 
